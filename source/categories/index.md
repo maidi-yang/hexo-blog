@@ -1,6 +1,6 @@
 ---
-title: tags
+title: categories
 date: 2018-10-31 17:58:22
-type: "tags"
+type: "categories"
 comments: false
 ---
