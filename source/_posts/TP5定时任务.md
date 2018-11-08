@@ -45,6 +45,10 @@ php think first
 ### 6.重启crond服务
 `systemctl restart crond`
 
+### 7.观察定时任务
+` tail -f /var/log/cro`
+
+
 ## 接口方式
 `php /home/wwwroot/域名/index.php demo/test/test`
 直接设置定时执行，或者加入.sh都行
