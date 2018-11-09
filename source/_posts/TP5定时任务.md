@@ -46,7 +46,11 @@ php think first
 `systemctl restart crond`
 
 ### 7.观察定时任务
-` tail -f /var/log/cro`
+` tail -f /var/log/cron`
+
+### 8.查看系统邮件
+定时任务完成后，系统邮件会记录任务日志，查看系统邮件：
+`/var/spool/mail/root `
 
 
 ## 接口方式
