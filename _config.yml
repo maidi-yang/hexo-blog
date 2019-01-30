@@ -100,3 +100,9 @@ live2d:
     height: 300
   mobile:
     show: false
+
+# 添加站点地图sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
