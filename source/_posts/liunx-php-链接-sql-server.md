@@ -1,8 +1,9 @@
 ---
-title: liunx php 链接 sql server
+title: liunx php链接sql server
 date: 2019-01-30 16:41:10
-tags: [php]
-categories: [技术,php]
+tags: [php，liunx，sql server]
+categories: [技术,liunx]
+---
 一、加入微软的源
 ````
 curl https://packages.microsoft.com/config/rhel/7/prod.repo > /etc/yum.repos.d/mssqlrelease.repo
